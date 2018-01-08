@@ -1,2 +1,2 @@
 # test
-> A Golang project
+> A Go project
